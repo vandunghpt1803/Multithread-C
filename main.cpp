@@ -391,12 +391,12 @@ void t2(){
 }
 void t3_1(){
 	rep(0,i,6){
-		fadeStringIn( "Trang ", 16, 30-i, 1, 10);		
+		fadeStringIn( "Linh ", 16, 30-i, 1, 10);		
 		Sleep(250);
 	}
 }
 void t3_2(){
-	fadeStringIn( "Le Thi ", 16, 18, 30);
+	fadeStringIn( "Ngyen Thi Thuy ", 16, 18, 30);
 }
 void t3(){
 	fadeStringIn( "Happy birthday to you", 16, 12, 50);
